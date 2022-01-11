@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+header {
+    background-color: #637785;
+    width: 100%;
+    display: inline-block;
+}
+
+.menu {
+    text-align: center;
+}
+
+    .menu li {
+        display: inline-block;
+    }
+    .menu li a {
+        color: white;
+        font-size: 16px;
+        font-weight: 300;
+        padding: 12px 18px;
+        display: inline-block;
+    }
+    .menu li a:hover {
+        background-color: #5fabe0;
+    }
+
+    h3{
+        text-align: center;
+    }
+
+    .mainkutu{
+        list-style-position: inside;
+        text-align: center;
+    }
