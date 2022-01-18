@@ -44,3 +44,7 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.middlearea{
+  max-height: 200px !important;
+}
