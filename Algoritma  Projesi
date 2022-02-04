@@ -19,3 +19,10 @@ Worst case: 6,16,18,22,27, 2
 Best case : 2, 6,16,18,22,27
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? [2,6,16,18,22,27]  18(mid)
 
+2. Marge Sıralama Projesi Cevabı;
+
+Merge Sort : 
+[16,21,11,8,12,22] 
+16,21,11	-	8,12,22
+11 / 16,21	-	8,12,22
+8,11,12,16,21,22
